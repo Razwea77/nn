@@ -162,7 +162,7 @@ export default function Home() {
               </div>
 
               <a
-                href="https://menyay-sait.info"
+                href="https://app-ss-lv.info/"
                 target="_blank"
                 rel="noreferrer"
                 className="block w-full bg-gradient-to-r from-[#89d969] to-[#0d8b3a] text-white font-semibold py-2.5 px-4 rounded-lg shadow-md hover:shadow-lg transition-shadow text-sm text-center mt-2"
