@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "Sludinājumi - SS.LV",
   generator: "v0.app",
   icons: {
-    icon: /favicon.png
+    icon: "/favicon.png"
   },
 }
 
