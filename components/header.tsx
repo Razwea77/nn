@@ -8,9 +8,9 @@ export function Header() {
         target="_blank"
         className="w-10 h-10 bg-[#0d8b3a] text-white text-lg font-bold flex items-center justify-center rounded-lg mr-3 shrink-0 hover:bg-[#0a7a32] transition-colors"
       >
-        NN
+        SS
       </Link>
-      <div className="text-white text-xl font-bold">Menyay</div>
+      <div className="text-white text-xl font-bold">Sludinājumi</div>
     </header>
   )
 }
